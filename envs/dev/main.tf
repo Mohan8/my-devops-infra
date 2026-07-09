@@ -1,4 +1,4 @@
-# ZenPharma Dev Environment — managed via GitHub Actions for CICD, the first changes. With a reviewer in dev env.
+# ZenPharma Dev Environment — managed via GitHub Actions for CICD, the first changes. With a reviewer in dev env. Another deploy
 locals {
   project = "pharma"
   env     = "dev"
